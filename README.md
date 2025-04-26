@@ -14,10 +14,12 @@
 This project is designed to combat the rising issue of counterfeit products using blockchain technology. The system allows manufacturers to register products on a secure, decentralized blockchain and generate a unique QR code for each product. Consumers can scan the QR code to verify the authenticity and trace the lifecycle of the product from manufacturing to purchase.
 
 ---
+##PROJECT PPT LINK HERE
+[HERE](https://docs.google.com/presentation/d/128jIOdED_8Daf2Re3_0XQ1Ww-QrQaYCC/edit?usp=drive_link&ouid=115718056392872392504&rtpof=true&sd=true)
+
 
 ## 🎥 Link to Video Explanation
 [👉 Click here to watch the project demo](https://drive.google.com/file/d/1g2PPz0BUrNrcAHhTUNDM1ANdGRJuaGcx/view?usp=sharing)  
-*(Replace `#` with the actual link)*
 
 ---
 
