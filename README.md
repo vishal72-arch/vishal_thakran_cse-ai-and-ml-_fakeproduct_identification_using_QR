@@ -19,7 +19,7 @@ This project is designed to combat the rising issue of counterfeit products usin
 
 
 ## 🎥 Link to Video Explanation
-[👉 Click here to watch the project demo](https://drive.google.com/file/d/1g2PPz0BUrNrcAHhTUNDM1ANdGRJuaGcx/view?usp=sharing)  
+[👉 Click here to watch the project demo](https://drive.google.com/file/d/1fGcka7mCG2cwFh84qeanZHB62GkAQoRi/view?usp=drive_link).
 
 ---
 
