@@ -21,6 +21,9 @@ This project is designed to combat the rising issue of counterfeit products usin
 ## 🎥 Link to Video Explanation
 [👉 Click here to watch the project demo](https://drive.google.com/file/d/1fGcka7mCG2cwFh84qeanZHB62GkAQoRi/view?usp=drive_link).
 
+
+##  project report
+[click here to access project report](https://docs.google.com/document/d/1jq71Ok9AIamCraLoYh3fS5j4axPL0XiW/edit?usp=sharing&ouid=115718056392872392504&rtpof=true&sd=true)
 ---
 
 ## 💻 Technologies Used
